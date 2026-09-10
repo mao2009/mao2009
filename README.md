@@ -12,6 +12,8 @@ C# / .NET を中心に、OSS と開発ツールを作っています。
 - Portfolio: https://mao2009.github.io/mao2009/
 - GitHub: https://github.com/mao2009
 - Zenn: https://zenn.dev/loach
+- Qiita: https://qiita.com/loach
+- DEV.to: https://dev.to/loach2009
 - Hatena Blog: https://loach12.hatenablog.com/
 - Bluesky: https://bsky.app/profile/loach2009.bsky.social
 - GitHub Sponsors: https://github.com/sponsors/mao2009
